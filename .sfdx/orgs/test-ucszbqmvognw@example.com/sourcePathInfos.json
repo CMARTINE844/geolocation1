@@ -32,28 +32,28 @@
     [
         "D:\\GitExamples\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1546460686970,
             "changeTime": 1546460686970,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura",
         {
+            "state": "u",
             "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1546460398126,
-            "changeTime": 1546460398126,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 0,
+            "modifiedTime": 1546460926610,
+            "changeTime": 1546460926610,
+            "isWorkspace": false,
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
         }
     ],
     [
@@ -281,14 +281,14 @@
     [
         "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "size": 156,
-            "modifiedTime": 1546460499687,
-            "changeTime": 1546460499687,
-            "contentHash": "f3f590857881ca3c0ed746a2c23effadffed7691",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 183,
+            "modifiedTime": 1546461018624,
+            "changeTime": 1546461018624,
+            "contentHash": "6d3f6812a6c1b614697dc68dcf06eca006afa56d"
         }
     ],
     [
@@ -385,92 +385,352 @@
     [
         "D:\\GitExamples\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1546460686954,
             "changeTime": 1546460686954,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\GitExamples\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4676,
             "modifiedTime": 1546460686978,
             "changeTime": 1546460686978,
-            "contentHash": "fd1e6c74f4e46833342e9c7c9d74cc3af3fded29"
+            "contentHash": "fd1e6c74f4e46833342e9c7c9d74cc3af3fded29",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\GitExamples\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4680,
             "modifiedTime": 1546460687001,
             "changeTime": 1546460687001,
-            "contentHash": "87ba65b89e99b40ff6ed5546407705fc6a63aaa5"
+            "contentHash": "87ba65b89e99b40ff6ed5546407705fc6a63aaa5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\GitExamples\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5016,
             "modifiedTime": 1546460687028,
             "changeTime": 1546460687028,
-            "contentHash": "b2b544ad2e99c14072e4bfdeb68699b788f40af7"
+            "contentHash": "b2b544ad2e99c14072e4bfdeb68699b788f40af7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\GitExamples\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 18199,
             "modifiedTime": 1546460687070,
             "changeTime": 1546460687070,
-            "contentHash": "5123388c414ceef0986f36f8d529b47c9abf733d"
+            "contentHash": "5123388c414ceef0986f36f8d529b47c9abf733d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\GitExamples\\geolocation\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1546460686954,
             "changeTime": 1546460686954,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\GitExamples\\geolocation\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1546460687069,
             "changeTime": 1546460687069,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546460926710,
+            "changeTime": 1546460954063,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546460845280,
+            "changeTime": 1546460863296,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1546460926694,
+            "changeTime": 1546460926694,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 339,
+            "modifiedTime": 1546460957639,
+            "changeTime": 1546460957639,
+            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1546460926663,
+            "changeTime": 1546460926663,
+            "contentHash": "9e9f03a612d61ab979166f75892ca34630005828"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1546460926678,
+            "changeTime": 1546460991828,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1546460926716,
+            "changeTime": 1546460926716,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1546460926694,
+            "changeTime": 1546460926694,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 255,
+            "modifiedTime": 1546460983638,
+            "changeTime": 1546460983638,
+            "contentHash": "c419962b0a578db6daaa2391f8f9d89e4218c947"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1546460926678,
+            "changeTime": 1546460964822,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1546460926694,
+            "changeTime": 1546460926694,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1546460845280,
+            "changeTime": 1546460845280,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 121,
+            "modifiedTime": 1546460869814,
+            "changeTime": 1546460869814,
+            "contentHash": "c2ab5bf1904268e2a6f09485e65d23c5c4d91f4a"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1546460844969,
+            "changeTime": 1546460844969,
+            "contentHash": "cd6b85d39687bc3e7ff7e8d01d139cec764fe6db"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 169,
+            "modifiedTime": 1546460884801,
+            "changeTime": 1546460884801,
+            "contentHash": "22602e1233fee615edad96067b8caea2a99688b0"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1546460845280,
+            "changeTime": 1546460845280,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1546460845264,
+            "changeTime": 1546460845264,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1546460845233,
+            "changeTime": 1546460845233,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1546460845249,
+            "changeTime": 1546460845249,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\GitExamples\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1546460845249,
+            "changeTime": 1546460845249,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
